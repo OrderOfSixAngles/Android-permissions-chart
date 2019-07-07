@@ -48,7 +48,7 @@ plt.rcParams.update({'font.size': 9})
 
 plt.barh(y_pos, performance_list)
 plt.yticks(y_pos, objects)
-plt.xlabel('Usage')
+plt.xlabel('Number of apk')
 plt.title('Permissions usage')
 
 plt.show()
