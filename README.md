@@ -1,4 +1,7 @@
 # Android-permissions-chart
+
+Shows android apps permission usage statistic
+
 requirements: matplotlib, numpy, aapt
 
 usage: PermParser.py [-h] dir
