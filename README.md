@@ -8,3 +8,6 @@ positional arguments:
 
 optional arguments:
   -h, --help  show this help message and exit
+  
+Example:
+![img](https://github.com/OrderOfSixAngles/OrderOfSixAngles.github.io/blob/master/assets/images/permissions.png)
