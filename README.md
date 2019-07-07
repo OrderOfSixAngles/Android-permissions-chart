@@ -1,5 +1,5 @@
 # Android-permissions-chart
-requirements: matplotlib, numpy
+requirements: matplotlib, numpy, aapt
 
 usage: PermParser.py [-h] dir
 
